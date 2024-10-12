@@ -14,8 +14,6 @@ This project demonstrates the usage of the PHI SDK for creating and verifying cr
 
 Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=vercel-examples):
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/your-username/phi-sdk-example&project-name=phi-sdk-example&repository-name=phi-sdk-example&env=SIGNER_PRIVATE_KEY,BASESCAN_API_KEY)
-
 ## How to Use
 
 This repository provides examples for creating verifier endpoints, Creds, and Artworks using the PHI SDK. Follow these steps to use the project:
